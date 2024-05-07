@@ -1,6 +1,6 @@
-package HerenciaUpCasting2;
+package HerenciaDownCasting2;
 
-public class Downcasting {
+public class Upcasting {
     public static void main(String[] args)
     {
         Parent p = new Child();

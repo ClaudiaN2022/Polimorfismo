@@ -1,4 +1,4 @@
-package Herencia;
+package Herencia1;
 
 public class Vaca extends Animal{
     @Override
